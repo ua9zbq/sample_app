@@ -1,5 +1,13 @@
 == Welcome to Rails
 
+
+# Ruby on Rails Tutorial: пример приложения
+
+Это пример приложения для
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+ [Майкл Хартл](http://michaelhartl.com/).
+
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
